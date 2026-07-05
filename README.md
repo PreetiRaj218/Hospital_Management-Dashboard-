@@ -12,21 +12,21 @@ This dashboard helps monitor important hospital metrics such as:
 - Total Patients
   
 - Average Patient Age
--
+
 - Total Doctors
--
+
   Total Billing Amount
--
+
 - Amount Received
--
+
 - Pending Amount
--
+
 - Disease Analysis
--
+
 - Doctor Specialization Analysis
--
+
 - Payment Mode Analysis
--
+
 - State-wise Revenue Analysis
 
 The dashboard provides an easy way for hospital administrators to make data-driven decisions.
@@ -46,37 +46,37 @@ The dashboard provides an easy way for hospital administrators to make data-driv
 ✔ Interactive Slicers
 
 - Doctor Name
-- 
+ 
 - State
-- 
+ 
 - City
-- 
+
 - Treatment Given
-- 
+
 - Registration Type
 
 ✔ KPI Cards
 
 - Total Patients
-- 
+ 
 - Average Age
-- 
+ 
 - Total Doctors
-- 
+ 
 - Amount Paid
-- 
+
 - Total Amount
-- 
+ 
 - Pending Amount
 
 ✔ Visualizations
 
 - Doctor Specialization Distribution
-- 
+ 
 - Payment Mode Analysis (Donut Chart)
-- 
+ 
 - Disease-wise Patient Count
-- 
+ 
 - State-wise Billing Analysis
 
 ---
@@ -84,13 +84,13 @@ The dashboard provides an easy way for hospital administrators to make data-driv
 ## 🛠 Tools & Technologies
 
 - Power BI Desktop
-- 
+
 - Power Query
-- 
+ 
 - DAX
-- 
+ 
 - Data Modeling
-- 
+ 
 - Excel Dataset
 
 ---
@@ -98,11 +98,11 @@ The dashboard provides an easy way for hospital administrators to make data-driv
 ## 📈 Dashboard Insights
 
 - General Medicine has the highest number of doctors.
-- 
+ 
 - Most payments are almost equally distributed across payment modes.
-- 
+ 
 - Hypertension and COVID-19 are among the diseases with fewer patient counts compared to Flu and Fracture.
-- 
+ 
 - Billing analysis shows differences in total, paid, and pending amounts across states.
 
 ---
@@ -122,17 +122,17 @@ Dataset (if shareable)
 ## 📚 Skills Demonstrated
 
 - Data Cleaning
-- 
+ 
 - Data Modeling
-- 
+
 - DAX Measures
-- 
+ 
 - Dashboard Design
-- 
+ 
 - KPI Development
-- 
+ 
 - Interactive Filtering
-- 
+ 
 - Business Intelligence
 
 ---
@@ -142,13 +142,13 @@ Dataset (if shareable)
 Through this project, I learned:
 
 - Creating professional Power BI dashboards
-- 
+ 
 - Building KPIs using DAX
-- 
+ 
 - Designing interactive reports
-- 
+ 
 - Using slicers for dynamic filtering
-- 
+ 
 - Visual storytelling with Power BI
 
 ---
